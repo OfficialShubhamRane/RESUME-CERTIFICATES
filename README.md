@@ -1,4 +1,3 @@
-Introduction:
 My name is Shubham Rajan Rane, graduating with a Master's degree in Computer Science from Stevens Institute of Technology, NJ  in May 2021.
 
 I am currently looking for a role as an Entry-level Software developer. My language proficiency is in Java, I am also well versed with Core as well as Advance Java concepts. I have worked in an Agile software development environment. I incorporate version control in my projects using Git.
